@@ -77,3 +77,10 @@ footer .contato a{
 footer .contato a:hover{
     text-decoration: underline;
 }
+
+@media screen and (max-width: 380px) {
+    footer p {
+       font-size: 12px;
+    }
+
+}
